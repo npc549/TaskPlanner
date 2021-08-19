@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2a072f5b-bfed-4db6-bd54-7d85c446e63b" name="Default Changelist" comment="" />
+    <list default="true" id="2a072f5b-bfed-4db6-bd54-7d85c446e63b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/planner/bootstrap/Bootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/planner/models/TaskModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/planner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/console/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/controllers/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/console/ControllerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/interfaces/ControllerInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/console/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fileSystem/Explorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/services/Explorer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fileSystem/ExplorerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/interfaces/ExplorerInterface.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,11 +28,24 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1wqutppEXR6Q8RZMXANWtNkM0wD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.planner" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -52,10 +78,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="294" key="#com.intellij.ide.util.MemberChooser" timestamp="1629208220532">
+    <state x="414" y="242" width="1092" height="722" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629301661079">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state x="765" y="294" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1170@0.0.1920.1170" timestamp="1629208220532" />
+    <state x="414" y="242" width="1092" height="722" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1629301661079" />
+    <state x="765" y="294" key="#com.intellij.ide.util.MemberChooser" timestamp="1629299083985">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="765" y="294" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1170@0.0.1920.1170" timestamp="1629299083985" />
+    <state x="761" y="496" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1629299026006">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="761" y="496" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1170@0.0.1920.1170" timestamp="1629299026006" />
+    <state x="452" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1629301342267">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="452" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1629301342267" />
+    <state x="740" y="360" key="FileChooserDialogImpl" timestamp="1629301915329">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="740" y="360" key="FileChooserDialogImpl/0.0.1920.1170@0.0.1920.1170" timestamp="1629301915329" />
     <state width="1877" height="229" key="GridCell.Tab.0.bottom" timestamp="1629289492474">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>

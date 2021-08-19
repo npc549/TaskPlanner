@@ -1,4 +1,4 @@
-package console;
+package com.planner.interfaces;
 
 public interface ControllerInterface
 {

@@ -1,14 +1,16 @@
 package com.planner;
 
+// пернесети всё в бутстрап
+
 import java.io.*;
 import java.lang.*;
-import console.*;
+import com.planner.controllers.*;
 
 public class Main {
 
     public static void main(String[] args)
     {
-        Controller controller = new Controller();
+        TaskController controller = new TaskController();
 
         greeting(controller);
         try {
@@ -17,12 +19,9 @@ public class Main {
         catch (IOException e) {
             e.printStackTrace();
         }
-
-
-
     }
 
-    public static void greeting (Controller controller)
+    public static void greeting (TaskController controller)
     {
         System.out.println("Hi! There is Task Planner. I can read, create, delete and change your tasks. There are all your tasks: ");
         //controller.taskLoad();
@@ -37,12 +36,12 @@ public class Main {
                 " Enter 'e' for EXIT task \n");
     }
 
-    public static void selection (Controller controller) throws IOException {
+    public static void selection (TaskController controller) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         char inputAction;
-        boolean exit = true;
+        boolean exit = false;
 
-        while (exit) {
+        while (!exit) {
             System.out.println("Type letter for action: ");
             inputAction = reader.readLine().charAt(0);
 
@@ -60,7 +59,7 @@ public class Main {
                     controller.taskDelete();
                     break;
                 case 'e':
-                    exit = false;
+                    exit = true;
                     break;
                 default:
                     System.out.println("Oops, something wrong! Try again.");

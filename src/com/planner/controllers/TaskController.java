@@ -1,15 +1,15 @@
-package console;
+package com.planner.controllers;
 
-import java.io.*;
-import java.util.*;
+// перенести с мэйна всё сюда
 
-import fileSystem.*;
+import com.planner.services.*;
+import com.planner.interfaces.ControllerInterface;
 
-public class Controller implements ControllerInterface {
+public class TaskController implements ControllerInterface {
 
     @Override
     public void taskCreate() {
-        Explorer.tetsMethod();
+        //Explorer.tetsMethod();
     }
 
     @Override
