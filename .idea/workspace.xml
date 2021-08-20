@@ -2,18 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a072f5b-bfed-4db6-bd54-7d85c446e63b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/planner/bootstrap/Bootstrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/planner/models/TaskModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/planner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/console/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/controllers/TaskController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/console/ControllerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/interfaces/ControllerInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/console/Task.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fileSystem/Explorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/services/Explorer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fileSystem/ExplorerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/interfaces/ExplorerInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/planner/bootstrap/Bootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/bootstrap/Bootstrap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/planner/controllers/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/controllers/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/planner/models/TaskModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/models/TaskModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/planner/services/Explorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/services/Explorer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +37,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -78,14 +75,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="690" y="342" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1629456199852">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="690" y="342" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1629456199852" />
     <state x="414" y="242" width="1092" height="722" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629301661079">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
     <state x="414" y="242" width="1092" height="722" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1629301661079" />
-    <state x="765" y="294" key="#com.intellij.ide.util.MemberChooser" timestamp="1629299083985">
+    <state x="765" y="294" key="#com.intellij.ide.util.MemberChooser" timestamp="1629458179024">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state x="765" y="294" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1170@0.0.1920.1170" timestamp="1629299083985" />
+    <state x="765" y="294" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1170@0.0.1920.1170" timestamp="1629458179024" />
     <state x="761" y="496" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1629299026006">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
@@ -94,25 +95,45 @@
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
     <state x="452" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1629301342267" />
+    <state x="711" y="453" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1629458153433">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="711" y="453" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1170@0.0.1920.1170" timestamp="1629458153433" />
     <state x="740" y="360" key="FileChooserDialogImpl" timestamp="1629301915329">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
     <state x="740" y="360" key="FileChooserDialogImpl/0.0.1920.1170@0.0.1920.1170" timestamp="1629301915329" />
-    <state width="1877" height="229" key="GridCell.Tab.0.bottom" timestamp="1629289492474">
+    <state width="1877" height="229" key="GridCell.Tab.0.bottom" timestamp="1629468431469">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state width="1877" height="229" key="GridCell.Tab.0.bottom/0.0.1920.1170@0.0.1920.1170" timestamp="1629289492474" />
-    <state width="1877" height="229" key="GridCell.Tab.0.center" timestamp="1629289492474">
+    <state width="1877" height="229" key="GridCell.Tab.0.bottom/0.0.1920.1170@0.0.1920.1170" timestamp="1629468431469" />
+    <state width="1877" height="229" key="GridCell.Tab.0.center" timestamp="1629468431469">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state width="1877" height="229" key="GridCell.Tab.0.center/0.0.1920.1170@0.0.1920.1170" timestamp="1629289492474" />
-    <state width="1877" height="229" key="GridCell.Tab.0.left" timestamp="1629289492474">
+    <state width="1877" height="229" key="GridCell.Tab.0.center/0.0.1920.1170@0.0.1920.1170" timestamp="1629468431469" />
+    <state width="1877" height="229" key="GridCell.Tab.0.left" timestamp="1629468431469">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state width="1877" height="229" key="GridCell.Tab.0.left/0.0.1920.1170@0.0.1920.1170" timestamp="1629289492474" />
-    <state width="1877" height="229" key="GridCell.Tab.0.right" timestamp="1629289492474">
+    <state width="1877" height="229" key="GridCell.Tab.0.left/0.0.1920.1170@0.0.1920.1170" timestamp="1629468431469" />
+    <state width="1877" height="229" key="GridCell.Tab.0.right" timestamp="1629468431469">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state width="1877" height="229" key="GridCell.Tab.0.right/0.0.1920.1170@0.0.1920.1170" timestamp="1629289492474" />
+    <state width="1877" height="229" key="GridCell.Tab.0.right/0.0.1920.1170@0.0.1920.1170" timestamp="1629468431469" />
+    <state x="667" y="412" key="com.intellij.ide.util.TipDialog" timestamp="1629458494716">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="667" y="412" key="com.intellij.ide.util.TipDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1629458494716" />
+    <state x="614" y="202" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1629458135614">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="614" y="202" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1170@0.0.1920.1170" timestamp="1629458135614" />
+    <state x="342" y="211" key="new project wizard" timestamp="1629367209991">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="342" y="211" key="new project wizard/0.0.1920.1170@0.0.1920.1170" timestamp="1629367209991" />
+    <state x="623" y="257" key="search.everywhere.popup" timestamp="1629466255138">
+      <screen x="0" y="0" width="1920" height="1170" />
+    </state>
+    <state x="623" y="257" key="search.everywhere.popup/0.0.1920.1170@0.0.1920.1170" timestamp="1629466255138" />
   </component>
 </project>
