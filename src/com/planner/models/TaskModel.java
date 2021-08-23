@@ -3,9 +3,7 @@ package com.planner.models;
 import java.io.*;
 import java.util.*;
 
-public class TaskModel implements Serializable {
-
-    private static final long serialVersionUID = 1L;
+public class TaskModel {
 
     // Fields
     private String title;
@@ -39,6 +37,7 @@ public class TaskModel implements Serializable {
         this.contacts = contacts;
     }
 
+    // Overridden methods
     @Override
     public String toString() {
         return "Task {" +

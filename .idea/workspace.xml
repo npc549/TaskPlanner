@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a072f5b-bfed-4db6-bd54-7d85c446e63b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/planner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/planner/bootstrap/Bootstrap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/bootstrap/Bootstrap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/planner/controllers/TaskController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/controllers/TaskController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/planner/interfaces/ExplorerInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/interfaces/ExplorerInterface.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/planner/models/TaskModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/models/TaskModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/planner/services/Explorer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/planner/services/Explorer.java" afterDir="false" />
     </list>
@@ -28,7 +28,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1wqutppEXR6Q8RZMXANWtNkM0wD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -83,10 +85,10 @@
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
     <state x="414" y="242" width="1092" height="722" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1170@0.0.1920.1170" timestamp="1629301661079" />
-    <state x="765" y="294" key="#com.intellij.ide.util.MemberChooser" timestamp="1629458179024">
+    <state x="765" y="294" key="#com.intellij.ide.util.MemberChooser" timestamp="1629727144251">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
-    <state x="765" y="294" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1170@0.0.1920.1170" timestamp="1629458179024" />
+    <state x="765" y="294" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1170@0.0.1920.1170" timestamp="1629727144251" />
     <state x="761" y="496" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1629299026006">
       <screen x="0" y="0" width="1920" height="1170" />
     </state>
